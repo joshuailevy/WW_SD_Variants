@@ -1,3 +1,8 @@
+*.bam
+*.bai
+vars/
+depths/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
